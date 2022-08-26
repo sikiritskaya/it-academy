@@ -1,0 +1,10 @@
+.white {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 50vh;
+  color: blue;
+  font-weight: bold;
+  font-size: 50px;
+}
